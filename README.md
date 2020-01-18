@@ -1,3 +1,3 @@
-# E-Commerce-Site
+# Color Game
 
-An E-commerce website built using Node.js,Sequelize.js,Handlebars.js etc.
+Game built using HTML, CSS and JS.
